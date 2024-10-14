@@ -1,4 +1,4 @@
-module github.com/neerajbg/go-fiber-blog
+module github.com/sidikimamsetiyawan/go-project-personal-blog
 
 go 1.20
 

@@ -4,8 +4,8 @@ import (
 	"log"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/neerajbg/go-fiber-blog/database"
-	"github.com/neerajbg/go-fiber-blog/model"
+	"github.com/sidikimamsetiyawan/go-project-personal-blog/database"
+	"github.com/sidikimamsetiyawan/go-project-personal-blog/model"
 )
 
 // Blog List

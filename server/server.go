@@ -6,8 +6,8 @@ import (
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"
 	"github.com/joho/godotenv"
-	"github.com/neerajbg/go-fiber-blog/database"
-	"github.com/neerajbg/go-fiber-blog/router"
+	"github.com/sidikimamsetiyawan/go-project-personal-blog/database"
+	"github.com/sidikimamsetiyawan/go-project-personal-blog/router"
 )
 
 func init() {
